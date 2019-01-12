@@ -1,12 +1,12 @@
-# ColorLog // Colorify
+# Colorifylog
 
-Colorlog is a tool to color your console logs. 
+Colorifylog is a tool to color your console logs. 
 
 ## Usage
 
-Call colorLog and add a the Hex code.
+Call colorifylog and add a the Hex code.
 
-`const colorLog("Hello World","#ff00ff")`
+`const colorifylog("Hello World","#ff00ff")`
 
 Returns
 
@@ -15,7 +15,7 @@ Returns
 
 ## Name
 
-It was originally called colorify, but since it was a pretty shitty version of its aspiration and the countless other console coloring libraries out there. It has therefore been named color log, as a temporary named.
+It was originally called colorify, but since it was a pretty shitty version of its aspiration and the countless other console coloring libraries out there. It has therefore been named colorifylog, as a temporary name.
 
 ## Contributions welcome
 
