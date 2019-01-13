@@ -17,6 +17,15 @@ Returns
 
 It was originally called colorify, but since it was a pretty shitty version of its aspiration and the countless other console coloring libraries out there. It has therefore been named colorifylog, as a temporary name.
 
+## Colors
+
+* Green, Hex: '#008000'
+* Red, Hex: '#ff0000'
+* Yellow, Hex: '#ffff00'
+* Blue, Hex: '#0000ff'
+* Magenta, Hex: '#ff00ff'
+* Cyan, Hex: '#00ffff'
+
 ## Contributions welcome
 
 Please add colors, improve functionality.
