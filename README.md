@@ -4,9 +4,13 @@ Colorifylog is a tool to color your console logs.
 
 ## Usage
 
+Install
+
+`const colorifylog = require('colorifylog')`
+
 Call colorifylog and add a the Hex code.
 
-`const colorifylog("Hello World","#ff00ff")`
+`colorifylog("Hello World","#ff00ff")`
 
 Returns
 

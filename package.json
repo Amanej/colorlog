@@ -1,6 +1,6 @@
 {
   "name": "colorifylog",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Colorifylog is a tool to color your console logs.",
   "main": "index.js",
   "directories": {
